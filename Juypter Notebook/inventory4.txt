@@ -1,0 +1,4 @@
+1,santhor,30,95
+2,lux,25,100
+3,mysore,30,100
+4,cinthol,15,100
